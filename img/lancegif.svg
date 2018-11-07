@@ -1,0 +1,87 @@
+<svg class="ldt-blank" width="441px"  height="91px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" style="background: rgb(55, 55, 55);"><style type="text/css">path,ellipse,circle,rect,polygon,polyline,line { stroke-width: 0; }
+@keyframes ld-breath {
+  0% {
+    -webkit-transform: scale(0.86);
+    transform: scale(0.86);
+  }
+  50% {
+    -webkit-transform: scale(1.06);
+    transform: scale(1.06);
+  }
+  100% {
+    -webkit-transform: scale(0.86);
+    transform: scale(0.86);
+  }
+}
+@-webkit-keyframes ld-breath {
+  0% {
+    -webkit-transform: scale(0.86);
+    transform: scale(0.86);
+  }
+  50% {
+    -webkit-transform: scale(1.06);
+    transform: scale(1.06);
+  }
+  100% {
+    -webkit-transform: scale(0.86);
+    transform: scale(0.86);
+  }
+}
+.ld.ld-breath {
+  -webkit-animation: ld-breath 1s infinite;
+  animation: ld-breath 1s infinite;
+}
+
+text { font-family: Arial }</style><g transform="translate(16.264062499999994 61.4)" style="opacity: 1;">
+  <g style="animation-delay: 0s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 13.3438px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">L</text>
+  </g>
+</g><g transform="translate(42.951562499999994 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.0769231s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 17px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">A</text>
+  </g>
+</g><g transform="translate(76.9515625 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.153846s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 17.3281px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">N</text>
+  </g>
+</g><g transform="translate(111.6078125 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.230769s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 17.3281px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">C</text>
+  </g>
+</g><g transform="translate(146.2640625 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.307692s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 16.0078px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">E</text>
+  </g>
+</g><g transform="translate(178.2796875 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.384615s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 8.4px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial"> </text>
+  </g>
+</g><g transform="translate(195.0796875 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.461538s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 17.3281px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">C</text>
+  </g>
+</g><g transform="translate(229.7359375 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.538462s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 13.3438px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">L</text>
+  </g>
+</g><g transform="translate(256.4234375 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.615385s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 17px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">A</text>
+  </g>
+</g><g transform="translate(290.4234375 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.692308s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 16.5078px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">Y</text>
+  </g>
+</g><g transform="translate(323.4390625 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.769231s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 14.6563px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">T</text>
+  </g>
+</g><g transform="translate(352.7515625 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.846154s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 18.6641px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">O</text>
+  </g>
+</g><g transform="translate(390.0796875 61.4)" style="opacity: 1;">
+  <g style="animation-delay: -0.923077s; animation-duration: 1.6s; font-size: 48px; animation-direction: normal; transform-origin: 17.3281px 0px 0px;" class="ld ld-breath">
+    <text fill="#ffffff" style="font-family:Arial">N</text>
+  </g>
+</g></svg>
